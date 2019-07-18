@@ -12,7 +12,7 @@ const Recipe = ({image, title, calories, ingredients}) => {
                     <li>{ingredient.text}</li>
                 ))}
             </ol>
-            <p>Calories: {calories}</p>
+            <p><span>Calories:</span> {Math.round(calories)}</p>
         </div>
     );
 }
