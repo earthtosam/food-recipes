@@ -56,3 +56,10 @@ nav {
 .nav-link:hover {
   color: #fad251;
 }
+
+.current {
+  background: #ffffff;
+  color: #71008d;
+  padding: 8px 16px;
+  border-radius: 50px;
+}
