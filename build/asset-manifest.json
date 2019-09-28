@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-recipes/static/css/main.3da55817.chunk.css",
+    "main.js": "/food-recipes/static/js/main.92f50d9c.chunk.js",
+    "main.js.map": "/food-recipes/static/js/main.92f50d9c.chunk.js.map",
+    "runtime~main.js": "/food-recipes/static/js/runtime~main.bf7c1f15.js",
+    "runtime~main.js.map": "/food-recipes/static/js/runtime~main.bf7c1f15.js.map",
+    "static/js/2.881939cd.chunk.js": "/food-recipes/static/js/2.881939cd.chunk.js",
+    "static/js/2.881939cd.chunk.js.map": "/food-recipes/static/js/2.881939cd.chunk.js.map",
+    "index.html": "/food-recipes/index.html",
+    "precache-manifest.cabe031f032edfc081914ce08da3b72a.js": "/food-recipes/precache-manifest.cabe031f032edfc081914ce08da3b72a.js",
+    "service-worker.js": "/food-recipes/service-worker.js",
+    "static/css/main.3da55817.chunk.css.map": "/food-recipes/static/css/main.3da55817.chunk.css.map"
+  }
+}
